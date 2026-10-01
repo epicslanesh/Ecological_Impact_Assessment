@@ -90,5 +90,5 @@ write.csv(
   row.names = FALSE
 )
 
-veg_tax <- read.csv("results/1_clean_veg_survey.csv") 
+# veg_tax <- read.csv("results/1_clean_veg_survey.csv") 
 veg
